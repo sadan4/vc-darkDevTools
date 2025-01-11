@@ -1,3 +1,5 @@
+# the issue is now fixed
+
 # DarkDevTools
 
 DarkDevTools userplugin for Vencord 🚀
